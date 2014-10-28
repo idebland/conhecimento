@@ -1,3 +1,3 @@
 clc
 clear
-mprintf
+mprintf("entre com o primeiro nº")
